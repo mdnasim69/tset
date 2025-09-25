@@ -1,4 +1,3 @@
-void main(){
-  print('nasim');
-  var age =10;
+class nasim {
+  String name ="nasim";
 }
