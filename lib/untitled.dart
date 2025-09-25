@@ -1,6 +1,6 @@
 void main(){
   print("nasim");
   print("josim");
-    print("feature");
+  var age =10;
   print("sdfgh");
 }
